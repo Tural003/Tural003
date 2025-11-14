@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tural003&" alt="tural003" /></p>
 
 
-![snake gif](https://github.com/Tural003/Tural003/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tural003/Tural003/blob/output/github-contribution-grid-snake.gif)
